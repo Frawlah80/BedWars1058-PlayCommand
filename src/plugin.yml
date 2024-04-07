@@ -1,0 +1,8 @@
+main: me.frawlah.bwplaycmd.Main
+name: BedWars1058-PlayCommands
+version: 1.0
+author: Frawlah
+commands:
+  play:
+    description: Play command for BedWars1058
+    usage: /<command> <game_type>
